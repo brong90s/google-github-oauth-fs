@@ -1,10 +1,12 @@
 # google-github-oauth-fs
 React + Nestjs fullstack flow for Google &amp; Github SingleSignin Feature.
 
-# BACKEND
+### BACKEND
+```
 $ yarn install
 $ yarn start:dev
 
-# FRONTEND
+### FRONTEND
+```
 $ yarn install
 $ yarn start
