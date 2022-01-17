@@ -5,8 +5,10 @@ React + Nestjs fullstack flow for Google &amp; Github SingleSignin Feature.
 ```
 $ yarn install
 $ yarn start:dev
+```
 
 ### FRONTEND
 ```
 $ yarn install
 $ yarn start
+```
